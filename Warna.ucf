@@ -1,0 +1,47 @@
+# PlanAhead Generated physical constraints 
+NET "blue_out[0]" LOC = B7;
+NET "blue_out[1]" LOC = C7;
+NET "blue_out[2]" LOC = D7;
+NET "blue_out[3]" LOC = D8;
+
+# PlanAhead Generated IO constraints 
+NET "blue_out[0]" IOSTANDARD = LVCMOS18;
+NET "blue_out[1]" IOSTANDARD = LVCMOS18;
+NET "blue_out[2]" IOSTANDARD = LVCMOS18;
+NET "blue_out[3]" IOSTANDARD = LVCMOS18;
+
+# PlanAhead Generated physical constraints 
+NET "green_out[0]" LOC = C6;
+NET "green_out[1]" LOC = A5;
+NET "green_out[2]" LOC = B6;
+NET "green_out[3]" LOC = A6;
+
+# PlanAhead Generated IO constraints 
+NET "green_out[0]" IOSTANDARD = LVCMOS18;
+NET "green_out[1]" IOSTANDARD = LVCMOS18;
+NET "green_out[2]" IOSTANDARD = LVCMOS18;
+NET "green_out[3]" IOSTANDARD = LVCMOS18;
+
+# PlanAhead Generated physical constraints 
+NET "red_out[0]" LOC = A3;
+NET "red_out[1]" LOC = B4;
+NET "red_out[2]" LOC = C5;
+NET "red_out[3]" LOC = A4;
+
+# PlanAhead Generated IO constraints 
+NET "red_out[0]" IOSTANDARD = LVCMOS18;
+NET "red_out[1]" IOSTANDARD = LVCMOS18;
+NET "red_out[2]" IOSTANDARD = LVCMOS18;
+NET "red_out[3]" IOSTANDARD = LVCMOS18;
+
+# PlanAhead Generated physical constraints 
+
+NET "clk100" LOC = E3;
+NET "hs_out" LOC = B11;
+NET "vs_out" LOC = B12;
+
+# PlanAhead Generated IO constraints 
+
+NET "clk100" IOSTANDARD = LVCMOS18;
+NET "hs_out" IOSTANDARD = LVCMOS18;
+NET "vs_out" IOSTANDARD = LVCMOS18;
